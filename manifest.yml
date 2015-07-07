@@ -1,7 +1,7 @@
 applications:
 - disk_quota: 1024M
-  host: travel-gv
-  name: travelacn
+  host: travel-np
+  name: travel-np
   path: webStarterApp.war
   domain: mybluemix.net
   instances: 1
