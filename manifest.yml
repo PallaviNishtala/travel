@@ -3,6 +3,6 @@ applications:
   host: travel-gv
   name: travelacn
   path: webStarterApp.war
-  domain:mybluemix.net
+  domain: mybluemix.net
   instances: 1
   memory: 512M
